@@ -1,5 +1,7 @@
 // We are taking user input of how much array size he wants to create and reading the input and then creating an array using rand() function and  using a for loop
-//and storing how many times0 1 2 each have appeared in the array and then storing it in the variables and printing X Y Z based on the maximum no of recieved inputsin rand function.
+//and storing how many times 0 1 2 each have appeared in the array and then storing it in the variables and printing X Y Z based on the maximum no of recieved inputs in rand function.
+//The complexity of the solution is O(n) in worst case , best case and average case.
+
 #include <stdio.h>
 #include <stdlib.h>
 
